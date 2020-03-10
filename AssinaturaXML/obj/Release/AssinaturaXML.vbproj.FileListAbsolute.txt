@@ -1,0 +1,10 @@
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\bin\Release\AssinaturaXML.dll
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\bin\Release\AssinaturaXML.pdb
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\bin\Release\AssinaturaXML.xml
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\bin\Release\AssinaturaXML.tlb
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\obj\Release\AssinaturaXML.vbprojAssemblyReference.cache
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\obj\Release\AssinaturaXML.Resources.resources
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\obj\Release\AssinaturaXML.vbproj.GenerateResource.cache
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\obj\Release\AssinaturaXML.dll
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\obj\Release\AssinaturaXML.xml
+D:\NSTecnologia\Utilitários\AssinaturaXML2\AssinaturaXML\obj\Release\AssinaturaXML.pdb

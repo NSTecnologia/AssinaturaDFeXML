@@ -1,9 +1,0 @@
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\bin\Release\AssinaturaXML2.dll
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\bin\Release\AssinaturaXML2.pdb
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\bin\Release\AssinaturaXML2.xml
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\bin\Release\AssinaturaXML2.tlb
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\obj\Release\AssinaturaXML2.Resources.resources
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\obj\Release\AssinaturaXML2.vbproj.GenerateResource.Cache
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\obj\Release\AssinaturaXML2.dll
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\obj\Release\AssinaturaXML2.xml
-D:\AssinaturaCertificado2\AssinaturaXML2\AssinaturaXML2\obj\Release\AssinaturaXML2.pdb
